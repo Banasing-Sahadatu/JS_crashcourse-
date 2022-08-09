@@ -21,3 +21,4 @@ if (x < 10) {
 } else {
   document.getElementById("demo2").innerHTML = "x is 10.it is neither greater or less";
 }
+
